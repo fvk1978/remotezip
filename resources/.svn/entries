@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://remotezip.googlecode.com/svn/trunk/resources
+https://remotezip.googlecode.com/svn
+
+
+
+2008-02-10T11:40:16.377512Z
+2
+fedorvk
+
+
+svn:special svn:externals svn:needs-lock
+
+dir.png
+file
+
+
+
+
+2006-01-19T16:43:09.000000Z
+8526729d8796e62c43454386866f8d2e
+2008-02-10T11:40:16.377512Z
+2
+fedorvk
+has-props
+
+remote_zip.ui
+file
+
+
+
+
+2008-02-10T09:30:10.000000Z
+bd990988e20abd7d2816dd86815a33c8
+2008-02-10T11:40:16.377512Z
+2
+fedorvk
+
+download.png
+file
+
+
+
+
+2005-09-10T08:20:31.000000Z
+8a94efdca5cf3c9c14aa3cdc8e4c1bfd
+2008-02-10T11:40:16.377512Z
+2
+fedorvk
+has-props
+
+connect.png
+file
+
+
+
+
+2005-09-10T08:20:30.000000Z
+ae0ebefae2a9e4949da60fe00ddf5957
+2008-02-10T11:40:16.377512Z
+2
+fedorvk
+has-props
+
